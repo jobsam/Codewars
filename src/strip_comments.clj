@@ -1,0 +1,1 @@
+(ns strip_comments)
